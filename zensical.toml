@@ -51,7 +51,8 @@ nav = [
     {Tutorials = [
         {"A Free Alternative to AI for Robust Web Scraping" = "tutorials/replacing_ai.md"},
         {"Migrating from BeautifulSoup" = "tutorials/migrating_from_beautifulsoup.md"},
-        {"Using Scrapeless browser" = "tutorials/external.md"}
+        {"Using Scrapeless browser" = "tutorials/external.md"},
+        {"Replacing an existing scraping endpoint" = "tutorials/replacing_existing_scraping_endpoint.md"}
     ]},
     {Development = [
         {"API Reference" = [
